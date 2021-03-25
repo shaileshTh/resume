@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## <center>Freddie First-Year
 
-You can use the [editor on GitHub](https://github.com/shaileshTh/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### OBJECTIVE
+To obtain a Summer 2021 internship in order to demonstrate my strong communication skills and educational background related to consumer product research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### EDUCATION
+**University of Georgia** *(Athens, GA)*
+Bachelor of Science in Family and Consumer Sciences *(May 2024)*
+**Major:** *Consumer Economics*; **Minor:** *Food Science*
 
-### Markdown
+#### WORK & OTHER EXPERIENCE
+**Dining Room Attendant,** *UGA Food Services*, Athens, GA *(August 2020 – Present)*
+*	Maintain a clean and safe environment for campus dining hall serving 1,000+ patrons daily
+*	Provide excellent customer service by interacting with students and staff to ensure a quality dining experience
+*	Completed the Student Manager Training Program within the first month of work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Arch Ready Professionalism Certificate,** *UGA Career Center*, Athens, GA *(December 2020)*
+* Attended 5 workshops during 1 semester with topics including business etiquette, LinkedIn, and resume building
+* Effectively communicated with employers, alumni, and peers by participating in networking panels
+* Completed an online assessment for each workshop to provide constructive feedback to the Career Center
 
-```markdown
-Syntax highlighted code block
+#### CAMPUS & COMMUNITY INVOLVEMENT
+**Rower,** *UGA Men’s Club Rowing Team*, Athens, GA *(August 2020 – Present)*
+* Selected as 1 of 15 members after completing a 20-hour intensive training period
+* Dedicate 15 hours per week to training and practice while balancing 15 academic hours
+* Received 3rd place medal at annual Head of the South Regatta in Augusta, GA
 
-# Header 1
-## Header 2
-### Header 3
+**Member,** *UGA Banking & Finance Society*, Athens, GA *(August 2020 – Present)*
+* Contribute articles and updates to campus-wide newsletter
+* Attend monthly networking events with employers and participate in company site visits
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaileshTh/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### SKILLS
+**Technical:** Microsoft Access, Publisher, Prezi
+**Language:** Intermediate knowledge of written and conversational Spanish
