@@ -1,11 +1,11 @@
-## <center>Freddie First-Year
+## Freddie First-Year
 
 #### OBJECTIVE
 To obtain a Summer 2021 internship in order to demonstrate my strong communication skills and educational background related to consumer product research.
 
 #### EDUCATION
-**University of Georgia** *(Athens, GA)*
-Bachelor of Science in Family and Consumer Sciences *(May 2024)*
+**University of Georgia** *(Athens, GA)* <br/>
+Bachelor of Science in Family and Consumer Sciences *(May 2024)* <br/>
 **Major:** *Consumer Economics*; **Minor:** *Food Science*
 
 #### WORK & OTHER EXPERIENCE
@@ -30,5 +30,5 @@ Bachelor of Science in Family and Consumer Sciences *(May 2024)*
 * Attend monthly networking events with employers and participate in company site visits
 
 #### SKILLS
-**Technical:** Microsoft Access, Publisher, Prezi
+**Technical:** Microsoft Access, Publisher, Prezi <br/>
 **Language:** Intermediate knowledge of written and conversational Spanish
